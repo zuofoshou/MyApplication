@@ -1,5 +1,7 @@
 package com.example.admin.myapplication;
 
+import android.app.Activity;
+
 /**
  * Class Name:
  * Created by zlt .
@@ -7,5 +9,5 @@ package com.example.admin.myapplication;
  * Data： 2018/1/16.
  */
 
-public class ZhiHU {
+public class ZhiHU extends Activity{
 }
